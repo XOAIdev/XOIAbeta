@@ -4,6 +4,9 @@ XOai is an AI-powered application designed to evaluate various on-chain and off-
 
 https://xoai-1.gitbook.io/xoai
 
+![image](https://github.com/user-attachments/assets/833284a6-a6a6-4544-854f-467525a8f538)
+
+
 ## Overview
 
 - **Supply Scrutiny:** Investigates token supply data to detect bundling or mint anomalies.
