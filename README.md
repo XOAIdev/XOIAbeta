@@ -2,6 +2,7 @@
 
 XOai is an AI-powered application designed to evaluate various on-chain and off-chain indicators for identifying potential rugs. This project integrates intelligent agents, allowing users to inspect token supply, wallet distribution, website data, reverse image content, fresh wallet activity, and Twitter insights.
 
+https://x.com/XOaipz
 https://xoai-1.gitbook.io/xoai
 
 ![image](https://github.com/user-attachments/assets/833284a6-a6a6-4544-854f-467525a8f538)
